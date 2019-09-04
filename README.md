@@ -1,2 +1,0 @@
-# blog
-try write something
