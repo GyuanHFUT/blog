@@ -20,7 +20,7 @@ module.exports = {
                 "title": "关于生活",
                 "collapsable": false,
                 "children": [
-                    "/Article/life/车"
+                    "/Article/life/选房"
                 ]
             }
         ]
