@@ -9,5 +9,9 @@
     "build": "vuepress build docs"
   },
   "author": "gaoyuan",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "vuepress-plugin-cat": "^1.0.3",
+    "vuepress-plugin-helper-live2d": "^1.0.0"
+  }
 }
