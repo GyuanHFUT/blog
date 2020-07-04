@@ -11,6 +11,16 @@ module.exports = {
                 "title": "关于code",
                 "collapsable": true,
                 "children": [
+                    "/Article/code/实现小型打包工具",
+                    "/Article/code/NextTick 原理分析",
+                    "/Article/code/Service Worker",
+                    "/Article/code/Vue 和 React 之间的区别",
+                    "/Article/code/vue的mvvm原理",
+                    "/Article/code/前端路由原理",
+                    "/Article/code/vue编译过程",
+                    "/Article/code/浏览器的缓存策略",
+                    "/Article/code/浏览器缓存位置",
+                    "/Article/code/多语言",
                     "/Article/code/地图学习",
                     "/Article/code/数据双向绑定的分析和简单实现",
                     "/Article/code/多语言",
@@ -42,14 +52,14 @@ module.exports = {
 
 
                 ]
-            },
-            {
-                "title": "关于生活",
-                "collapsable": false,
-                "children": [
-                    "/Article/life/选房"
-                ]
             }
+            // {
+            //     "title": "关于生活",
+            //     "collapsable": false,
+            //     "children": [
+            //         "/Article/life/选房"
+            //     ]
+            // }
         ]
     },
     plugins: [
