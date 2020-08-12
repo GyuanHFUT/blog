@@ -2,7 +2,7 @@ module.exports = {
     base: '/',
     port: '9999',
     title: '源于生活',
-    description: 'write something！',
+    description: 'write something',
     themeConfig: {
         // nav: [
         // ],
@@ -24,6 +24,10 @@ module.exports = {
                     "/Article/code/地图学习",
                     "/Article/code/数据双向绑定的分析和简单实现",
                     "/Article/code/多语言",
+                    "/Article/code/出租车平台性能优化",
+                    "/Article/code/通过队列和栈实现深度优先遍历和广度优先遍历",
+                    "/Article/code/DSN解析",
+                    "/Article/code/Web单张大图浏览缓慢问题解决",
                 ]
             },
             {
